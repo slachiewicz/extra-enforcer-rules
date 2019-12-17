@@ -81,7 +81,7 @@
   <properties>
     <enforcerApiVersion>1.0</enforcerApiVersion>
     <enforcerPluginVersion>1.4</enforcerPluginVersion>
-    <maven.version>2.0.9</maven.version>
+    <maven.version>3.6.3</maven.version>
     <mojo.java.target>1.6</mojo.java.target>
     <scmpublish.content>target/staging/${project.artifactId}</scmpublish.content>
   </properties>
