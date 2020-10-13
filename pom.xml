@@ -81,7 +81,7 @@
   <properties>
     <enforcerApiVersion>1.0</enforcerApiVersion>
     <enforcerPluginVersion>1.4</enforcerPluginVersion>
-    <maven.version>2.0.9</maven.version>
+    <maven.version>3.0</maven.version>
     <mojo.java.target>1.6</mojo.java.target>
     <scmpublish.content>target/staging/${project.artifactId}</scmpublish.content>
   </properties>
@@ -115,7 +115,7 @@
     <dependency>
       <groupId>org.codehaus.plexus</groupId>
       <artifactId>plexus-container-default</artifactId>
-      <version>1.0-alpha-9</version>
+      <version>1.0.0</version>
     </dependency>
     <dependency>
       <groupId>commons-codec</groupId>
